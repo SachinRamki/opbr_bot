@@ -1,0 +1,8 @@
+#ignore other folders
+
+datasets/
+opbr_bot_env/
+screenshots/
+ultralytics/
+yolo_dataset_v2/
+scripts/docs/
