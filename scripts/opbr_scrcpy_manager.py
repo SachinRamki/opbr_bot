@@ -1,4 +1,4 @@
-# scrcoy_manager.py
+# scrcpy_manager.py
 import subprocess
 import time
 import psutil
