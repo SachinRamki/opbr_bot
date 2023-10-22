@@ -1,6 +1,6 @@
 # OPBR Bot
 
-![OPBR Bot Logo](bot_logo.png)
+![OPBR Bot Logo](opbr_logo.png)
 
 OPBR Bot is an automated bot developed to perform various tasks in the one piece mobile game. The bot combines screen mirroring, computer vision, and automation to interact with the game and execute actions based on detected elements.
 
